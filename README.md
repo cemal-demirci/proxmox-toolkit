@@ -31,7 +31,7 @@ Proxmox Toolkit, Proxmox VE (Virtual Environment) sunucularınızı kolayca yön
 
 ### Adım 1: Repository'yi klonlayın
 ```bash
-git clone https://github.com/yourusername/proxmox-toolkit.git
+git clone https://github.com/cemal-demirci/proxmox-toolkit.git
 cd proxmox-toolkit
 ```
 
